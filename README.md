@@ -1,6 +1,6 @@
 # wifiConnect
 
-Small utilty tool for connection to a wifi network from the CLI.
+Small utility tool for connection to a wifi network from the CLI.
 
 Program needs to be run as a super user.
 
